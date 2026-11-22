@@ -47,6 +47,5 @@ Both the gate-level and IC-level implementations were exhaustively verified usin
 ```text
 ├── circuit/      # Logisim (.circ) files for gate-level and IC-level designs
 ├── report/       # Full technical report (PDF & LaTeX source)
-├── notes/        # Handwritten K-maps, truth tables, and Boolean expansion notes
 ├── tests/        # Logisim test vector file (192 combinations) & verification screenshots
 └── images/       # High-resolution circuit schematics
